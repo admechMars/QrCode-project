@@ -1,4 +1,4 @@
-import functions as fc
+import qrcode_function as fc
 import smtplib
 import email.message
 import json
